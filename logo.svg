@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="200" height="200">
+  <!-- 外枠の丸いバッジ -->
+  <circle cx="100" cy="100" r="96" fill="#4a2c20"/>
+  <circle cx="100" cy="100" r="86" fill="none" stroke="#c8963e" stroke-width="2"/>
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#c8963e" stroke-width="1" stroke-dasharray="2 4"/>
+  <!-- ランプの灯り（店名「灯」のモチーフ） -->
+  <path d="M100 38 C108 50 112 58 100 70 C88 58 92 50 100 38 Z" fill="#f2b84b"/>
+  <path d="M100 48 C104 55 105 60 100 66 C95 60 96 55 100 48 Z" fill="#fbe3a6"/>
+  <!-- コーヒーカップ -->
+  <path d="M70 82 H130 V100 C130 116 117 126 100 126 C83 126 70 116 70 100 Z" fill="#f5ecd9"/>
+  <path d="M130 88 C142 88 144 106 130 108" fill="none" stroke="#f5ecd9" stroke-width="5"/>
+  <ellipse cx="100" cy="132" rx="38" ry="5" fill="#f5ecd9"/>
+  <!-- 店名 -->
+  <text x="100" y="158" text-anchor="middle" font-family="'Shippori Mincho','Noto Serif JP',serif" font-size="20" font-weight="700" fill="#f5ecd9" letter-spacing="4">喫茶 灯</text>
+  <text x="100" y="174" text-anchor="middle" font-family="Georgia,serif" font-size="8" fill="#c8963e" letter-spacing="2">SINCE 1978</text>
+</svg>
